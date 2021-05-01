@@ -1,0 +1,10 @@
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\bin\Debug\odev6.exe.config
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\bin\Debug\odev6.exe
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\bin\Debug\odev6.pdb
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.frmPetShopSystem.resources
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.Properties.Resources.resources
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.exe
+C:\Users\Macbook\Desktop\c# course\odev6\odev6\obj\Debug\odev6.pdb
